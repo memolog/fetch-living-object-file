@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+out/media/*.jpg
+out/*import.txt
+error.png
